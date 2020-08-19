@@ -1,3 +1,7 @@
+## Link do deploy
+
+# https://linkedin-fawn.vercel.app/
+
 ## Techs
 
 - [x] React.js
